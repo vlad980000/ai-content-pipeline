@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+.venv/
+venv/
+
+# Environment
+.env
+.env.local
+.env.*
+.env.example
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+*.log
+logs/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Docker build artifacts
+*.tar
+*.gz
+node_modules/
+
+# Build
+*.whl
+*.so.*
+
+# Temporary
+tmp/
+temp/
+*.tmp
